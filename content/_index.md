@@ -10,3 +10,5 @@ intro_image_hide_on_mobile: true
 # Emma Johnston Counselling & Psychotherapy
 
 Friendly, Approachable and Compassionate Counselling and Psychotherapy for Neurotypical & Neurodivergent Couples, Young People & Adults.
+
+![Emma Johnson Portrait](/images/bacp-logo.webp)
