@@ -1,5 +1,5 @@
-baseURL = "https://emma.vaines.org/"
-languageCode = "en-gb"
+baseURL = "/"
+Mo languageCode = "en-gb"
 title = "Emma Johnston Counselling & Psychotherapy"
 theme = "hugo-serif-theme"
 
